@@ -5,8 +5,8 @@ My own collection of tools and utilities I've been programming to either practic
 
 | Tool | Description |
 | --- | --- |
-| wifigen | Simple wifi password dictionary generator |
-| revgen | Simple php reverse shell payload generator |
+| [wifigen](https://github.com/nothing4free/wifigen) | Simple wifi password dictionary generator |
+| [revgen](https://github.com/nothing4free/revgen) | Simple php reverse shell payload generator |
 
 ## License
 
