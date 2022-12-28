@@ -8,6 +8,7 @@ tools4haxorz is my own collection of tools and utilities I've been programming t
 | [wifigen](https://github.com/nothing4free/wifigen) | Simple wifi password dictionary generator |
 | [revgen](https://github.com/nothing4free/revgen) | Simple php reverse shell payload generator |
 | [enumtool](https://github.com/nothing4free/enumtool) | Automatic asset enumeration tool |
+| [dominator](https://github.com/nothing4free/dominator) | DNS monitor with history capabilities. Designed to run on servers. |
 
 
 ## License
