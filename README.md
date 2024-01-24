@@ -1,5 +1,5 @@
 # tools4haxorz
-tools4haxorz is my own collection of tools and utilities I've been programming to either practice or use on real-life cybersecurity scenarios. Some of them were made for fun and some of the were made for my Intro to Cybersecurity, Ethical Hacking and Forensic Analysis subjects on my Software Engineering studies. Most of these are written in Python and / or bash.
+tools4haxorz is my own collection of tools and utilities I've been programming to either practice @ uni or to use on real-life cybersecurity scenarios. Some of them were made for fun and some of the were made for my Intro to Cybersecurity, Ethical Hacking and Forensic Analysis subjects on my Software Engineering studies. Most of these are written in Python and / or bash.
 
 ## The tools
 
